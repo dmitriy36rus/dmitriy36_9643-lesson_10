@@ -1,0 +1,15 @@
+@import "null.css";
+
+/*Подключени еграниц элементов для визуализации схлопывания*/
+/*
+*{
+    border: 1px solid black;
+}
+*/
+*:last-child{
+    margin-bottom: 0px;
+}
+.wrapper{
+	overflow: hidden;
+	min-height: 100%;
+}
